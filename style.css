@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.file {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
