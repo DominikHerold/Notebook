@@ -1,5 +1,10 @@
 const files = [
-  "data/geheim.enc.json"
+  "data/geheim2.enc.json",
+  "data/geheim3.enc.json",
+  "data/geheim4.enc.json",
+  "data/geheim5.enc.json",
+  "data/geheim.enc.json",
+  "data/geheim6.enc.json"
 ];
 
 let fileElements = [];
