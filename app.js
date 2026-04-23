@@ -7,8 +7,7 @@ const files = [
   "data/geheim8.enc.json",
   "data/geheim.enc.json",
   "data/geheim6.enc.json",
-  "data/geheim9.enc.json",
-  "data/geheim10.enc.json"
+  "data/geheim9.enc.json"
 ];
 
 let fileElements = [];
