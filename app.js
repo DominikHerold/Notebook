@@ -1,5 +1,6 @@
 const files = [
   "data/geheim11.enc.json",
+  "data/geheim12.enc.json",
   "data/geheim2.enc.json",
   "data/geheim3.enc.json",
   "data/geheim4.enc.json",
